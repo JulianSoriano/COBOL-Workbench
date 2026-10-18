@@ -27,6 +27,3 @@ cobc -x examples/01-HELLO.cbl
 
 ## Not supported (yet)
 File handling (`FD`, `OPEN`, `READ`, `WRITE`), `REDEFINES`, `COPY`, `CALL`, `SORT`, `SEARCH`, `EVALUATE ... ALSO`, and tables inside tables.
-
-## Hosting it on GitHub Pages
-In the repo, go to **Settings → Pages**, choose **Deploy from a branch**, pick `main` and `/ (root)`, and save. The app will then be live at `https://juliansoriano.github.io/COBOL-Workbench/`.
